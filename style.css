@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+
+.ul-1 li {
+    list-style-type: disc;
+    color: red;
+}
+
+.ol-1 li {
+    list-style-type: circle;
+    color: purple;
+}
+
+.ul-2 li {
+    list-style-position: outside;
+    color: green;
+}
+
+.ol-2 li {
+    list-style-position: inside;
+    color: blue;
+}
+
+.ul-3 li {
+    list-style-type:upper-alpha;
+    color: darkgoldenrod;
+}
+
+.ol-3 li {
+    list-style-type:upper-roman ;
+}
+
+
+
+
+
+
